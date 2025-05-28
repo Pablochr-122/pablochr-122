@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hola, mi nombre es Pablo
 
-<!--
-**Pablochr-122/pablochr-122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### *A qué me dedico?*
+Soy un estudiante y actualmente me encuentro realizando un ciclo de grado superior de **desarrollo de aplicaciones web** "DAW".
 
-Here are some ideas to get you started:
+### *Títulos*
+- Título de Educación Secundaria Obligatoria
+- Título de Bachillerato
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### *DAW*
+Decidí meterme en el ciclo de DAW debido a que me resultaba interesante el hecho de saber desarrollar y hacer páginas web, y a pesar de que no resultara siendo lo esperado no me desagrada. Este ciclo lo estoy realizando en el **CIFP Cesar Manrique**.
+
+![CIFP Cesar Manrique](Cesar.webp)
+
+### *Asignaturas*
+
+| Asignaturas | Dificultad |
+| ----------- | ---------- |
+| Sistemas Informáticos | Fácil |
+| Programación | Difícil |
+| Inglés | Fácil |
+| Lenguaje de Marcas | Medio-Difícil |
+| Digitalización | Fácil |
+| Entornos de Desarrollos | Medio |
+| Base de Datos | Medio-Difícil |
+| FOL | Fácil |
+
+### *Introducción DAW*
+
+Si estás interesado en este ciclo, te dejo este vídeo de apoyo que en su momento me resultó útil.
+[Introducción](https://youtu.be/dfEEG4A_Hoo?feature=shared)
